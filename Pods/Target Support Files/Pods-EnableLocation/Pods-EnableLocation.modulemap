@@ -1,0 +1,6 @@
+framework module Pods_EnableLocation {
+  umbrella header "Pods-EnableLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}
